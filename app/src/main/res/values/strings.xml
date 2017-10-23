@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="rbtParticular">Particular</string>
+    <string name="rbtBussiness">Empresa</string>
+    <string name="txvTypeClient">Tipo cliente</string>
+    <string name="txvName">Nombre</string>
+    <string name="txvProfession">Profesión</string>
+    <string name="txvBussinessID">Razón social</string>
+    <string name="txvRepresentative">Representante</string>
+    <string name="txvNumEmployees">Número de empleados</string>
+</resources>
