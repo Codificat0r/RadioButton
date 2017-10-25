@@ -35,14 +35,16 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/rbtParticular" />
+            android:text="@string/rbtParticular"
+            android:onClick="onRadioButtonClicked"/>
 
         <RadioButton
             android:id="@+id/rbtBussiness"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="@string/rbtBussiness" />
+            android:text="@string/rbtBussiness"
+            android:onClick="onRadioButtonClicked"/>
     </RadioGroup>
 
 <!-- Hacemos que cargue el layout que hemos hecho aparte y ponga todos sus elementos. Include incluye su elemento raiz por narices. ESto significa
